@@ -4,8 +4,8 @@ var username = "Cyborg",
 exports.config = {
     framework: 'jasmine',
 
-    sauceUser: username,
-    sauceKey: accessKey,
+    sauceUser: amarzo,
+    sauceKey: e00ecff9-37ce-4590-a0e4-ccf10610bcf9,
 
      specs: [
         //TODO: add here other suites
